@@ -31,7 +31,8 @@ Write a story with your conclusion in the context of the original problem.
 You can include written notes in notebook cells using Markdown:
 
 In the control panel at the top, choose Cell > Cell Type > Markdown
+
 Markdown syntax: http://nestacms.com/docs/creating-content/markdown-cheat-sheet
-Resources
-Information and data sources: http://www.amstat.org/publications/jse/datasets/normtemp.txt, http://www.amstat.org/publications/jse/jse_data_archive.htm
+
+Resources: Information and data sources: http://www.amstat.org/publications/jse/datasets/normtemp.txt, http://www.amstat.org/publications/jse/jse_data_archive.htm
 Markdown syntax: http://nestacms.com/docs/creating-content/markdown-cheat-sheet
