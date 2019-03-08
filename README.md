@@ -20,8 +20,8 @@ Now try using the other test. How is the result be different? Why?
 4.Draw a small sample of size 10 from the data and repeat both frequentist tests.
 Which one is the correct one to use?
 What do you notice? What does this tell you about the difference in application of the  t  and  z  statistic?
-5.At what temperature should we consider someone's temperature to be "abnormal"?
 
+5.At what temperature should we consider someone's temperature to be "abnormal"?
 As in the previous example, try calculating everything using the boostrap approach, as well as the frequentist approach.
 Start by computing the margin of error and confidence interval. When calculating the confidence interval, keep in mind that you should use the appropriate formula for one draw, and not N draws.
 
